@@ -2,7 +2,7 @@
 
 # Llama Life in Sidebar
 
-A Firefox WebExtension to display [Llama Life](llamalife.co/) in the sidebar.
+A Firefox WebExtension to display [Llama Life](https://llamalife.co/) in the sidebar.
 
 This extension adds a new section to the Firefox sidebar which contains the Llama Life web app.
 
