@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://llamalife.co/favicon.png)
 
 # Llama Life in Sidebar
 
