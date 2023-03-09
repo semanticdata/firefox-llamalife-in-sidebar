@@ -4,6 +4,8 @@ function openPage() {
   });
 }
 
+browser.browserAction.onClicked.addListener(openPage);
+
 // Update UI and set value of textbox
 async function updateUI() {
   let commands = await browser.commands.getAll();
@@ -14,5 +16,4 @@ async function updateUI() {
   }
 }
 
-browser.browserAction.onClicked.addListener(openPage);
 browser.browserAction.onClicked.addListener(updateUI);
