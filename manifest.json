@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Llama Life Sidebar",
   "description": "Displays Llama Life in the sidebar.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "background": {
     "scripts": ["background.js"]
   },
@@ -37,8 +37,8 @@
   },
   "browser_action": {
     "default_icon": {
-      "16": "icons/page-16.png",
-      "32": "icons/page-32.png"
+      "16": "icons/icon1_48.png",
+      "32": "icons/icon1_96.png"
     }
   }
 }
