@@ -8,17 +8,8 @@ function openPage() {
 
 browser.browserAction.onClicked.addListener(openPage);
 
-// Update UI and set value of textbox
-async function updateUI() {
-  let commands = await browser.commands.getAll();
-  for (command of commands) {
-    if (command.name === sidebarToggle) {
-      document.querySelector('#shortcut').value = command.shortcut;
-    }
-  }
+function openSidebar() {
+  sidebarAction.toggle();
 }
 
-browser.browserAction.onClicked.addListener(updateUI);
-
-// Update UI on page load
-document.addEventListener('DOMContentLoaded', updateUI);
+browser.browserAction.onClicked.addListener(openSidebar);
