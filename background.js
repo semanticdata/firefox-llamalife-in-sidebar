@@ -1,4 +1,4 @@
-// const sidebarToggle = '_execute_sidebar_action';
+const sidebarToggle = '_execute_sidebar_action';
 
 // function openPage() {
 //   browser.tabs.create({
