@@ -1,3 +1,5 @@
+const sidebarToggle = '_execute_sidebar_action';
+
 function openPage() {
   browser.tabs.create({
     url: "https://developer.mozilla.org",
@@ -17,3 +19,6 @@ async function updateUI() {
 }
 
 browser.browserAction.onClicked.addListener(updateUI);
+
+// Update UI on page load
+document.addEventListener('DOMContentLoaded', updateUI);
