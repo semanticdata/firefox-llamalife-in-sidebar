@@ -6,7 +6,7 @@ const sidebarToggle = '_execute_sidebar_action';
 //   });
 // }
 
-// browser.browserAction.onClicked.addListener(openPage);
+browser.browserAction.onClicked.addListener(openPage);
 
 function openSidebar() {
   browser.sidebarAction.toggle()
