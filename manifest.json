@@ -35,5 +35,11 @@
         },
         "description": "Toggle the Llama Life sidebar."
       }
+    },
+    "browser_action": {
+      "default_icon": {
+        "16": "icons/page-16.png",
+        "32": "icons/page-32.png"
+      }
     }
   }
