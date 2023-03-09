@@ -15,4 +15,4 @@ async function updateUI() {
 }
 
 browser.browserAction.onClicked.addListener(openPage);
-browser.sidebarAction.onClicked.addListener(updateUI);
+browser.browserAction.onClicked.addListener(updateUI);
