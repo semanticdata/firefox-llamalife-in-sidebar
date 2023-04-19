@@ -6,7 +6,7 @@ A Firefox WebExtension to display Llama Life within the Firefox sidebar. This ex
 
 ## How to Use
 
-1. Toggle the sidebar by pressing Alt+Shift+5. This shortcut can be changed by going to Add-ons -> Reddit in Sidebar -> Options.
+1. Toggle the sidebar by pressing Alt+Shift+5. This shortcut can be changed by going to Add-ons -> Llama Life in Sidebar -> Options.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
