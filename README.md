@@ -16,3 +16,23 @@ The sidebar's width is *locked by default* in Firefox. Unfortunately, the sideba
 ## Disclaimer
 
 This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use Llama Life on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to Llama Life in any way.
+
+### Active Users
+
+![Mozilla Add-on](https://img.shields.io/amo/users/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge)
+
+### Weekly Downloads
+
+![Mozilla Add-on](https://img.shields.io/amo/dw/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge)
+
+### Rating
+
+![Mozilla Add-on](https://img.shields.io/amo/rating/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge)
+
+### Version
+
+![Mozilla Add-on](https://img.shields.io/amo/v/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge)
+
+### License
+
+![GitHub](https://img.shields.io/github/license/datastring/firefox-llamalife-in-sidebar?style=for-the-badge)
