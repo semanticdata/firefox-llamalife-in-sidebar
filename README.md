@@ -1,7 +1,7 @@
-<h1 align=center>
-<img align=center; src="https://llamalife.co/favicon.png" /> Llama Life in Sidebar
-</h1>
+# ![logo](https://llamalife.co/favicon.png) Llamalife in Sidebar
+>⚠️ This project is no longer actively used or maintained. ⚠️
 
+<!--
 <p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B298b10ce-2211-47d0-aad6-107b8a733fc5%7D?style=for-the-badge">
 <img src="https://img.shields.io/amo/rating/%7Ba16c3799-d903-44e3-b044-a032197f5ef8%7D?style=for-the-badge" />
@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/amo/users/%7B298b10ce-2211-47d0-aad6-107b8a733fc5%7D?style=for-the-badge" />
 <img src="https://img.shields.io/github/license/datastring/firefox-llamalife-in-sidebar?style=for-the-badge" />
 </p>
+-->
 
 A Firefox WebExtension to display Llama Life within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Llama Life web app. It also adds a shortcut, and a button toggle within the toolbar.
 
