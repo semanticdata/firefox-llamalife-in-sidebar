@@ -1,5 +1,5 @@
 # ![logo](https://llamalife.co/favicon.png) Llamalife in Sidebar
->⚠️ This project is no longer actively used or maintained. ⚠️
+⚠️ This project is no longer actively used or maintained. ⚠️
 
 <!--
 <p align=center>
