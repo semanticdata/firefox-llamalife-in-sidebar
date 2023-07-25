@@ -18,7 +18,7 @@ A Firefox WebExtension to display Llama Life within the Firefox sidebar. This ex
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my blog](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/).
+The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## Disclaimer
 
