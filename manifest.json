@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Llama Life Sidebar",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Displays Llama Life in the sidebar.",
   "background": {
     "scripts": ["src/background.js"]
